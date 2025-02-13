@@ -1,0 +1,15 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo Cargo
+/target/
+Cargo.lock
+
+# Outros arquivos irrelevantes para o projeto
+*.log
+*.tmp
+
+# Configurações do editor ou IDE
+.idea/
+.vscode/
